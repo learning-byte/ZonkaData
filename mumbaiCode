@@ -1,3 +1,4 @@
 if (hello <0) {
  console.log('world')}
 p
+if(data <0){ working are fine }
